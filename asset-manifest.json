@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/photo-gallery/static/css/main.ba67467d.css",
+    "main.js": "/github.io/photo-gallery/static/js/main.ffeb78de.js",
+    "index.html": "/github.io/photo-gallery/index.html",
+    "main.ba67467d.css.map": "/github.io/photo-gallery/static/css/main.ba67467d.css.map",
+    "main.ffeb78de.js.map": "/github.io/photo-gallery/static/js/main.ffeb78de.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba67467d.css",
+    "static/js/main.ffeb78de.js"
+  ]
+}
