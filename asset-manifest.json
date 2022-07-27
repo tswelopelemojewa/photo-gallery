@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/photo-gallery/static/css/main.ba67467d.css",
-    "main.js": "/github.io/photo-gallery/static/js/main.ffeb78de.js",
-    "index.html": "/github.io/photo-gallery/index.html",
-    "main.ba67467d.css.map": "/github.io/photo-gallery/static/css/main.ba67467d.css.map",
-    "main.ffeb78de.js.map": "/github.io/photo-gallery/static/js/main.ffeb78de.js.map"
+    "main.css": "/photo-gallery/static/css/main.ba67467d.css",
+    "main.js": "/photo-gallery/static/js/main.ffeb78de.js",
+    "index.html": "/photo-gallery/index.html",
+    "main.ba67467d.css.map": "/photo-gallery/static/css/main.ba67467d.css.map",
+    "main.ffeb78de.js.map": "/photo-gallery/static/js/main.ffeb78de.js.map"
   },
   "entrypoints": [
     "static/css/main.ba67467d.css",
