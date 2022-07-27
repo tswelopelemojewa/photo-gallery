@@ -15,7 +15,7 @@ function App() {
             <Navbar />
 
             <Routes>
-              <Route path="/" element={ <Slider /> } />
+              <Route path="/home" element={ <Slider /> } />
               <Route path="/about" element={ <About /> } />
               <Route path="*" element={<NotFound />} />
               
