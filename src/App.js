@@ -15,7 +15,7 @@ function App() {
             <Navbar />
 
             <Routes>
-              <Route path="/home" element={ <Slider /> } />
+              <Route path="/photo-gallery" element={ <Slider /> } />
               <Route path="/about" element={ <About /> } />
               <Route path="*" element={<NotFound />} />
               
